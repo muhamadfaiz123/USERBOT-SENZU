@@ -1,0 +1,14 @@
+aiohttp==3.8.0
+aiopath==0.5.12
+aiorun==2021.10.1
+colorlog==6.6.0
+dnspython==2.2.1
+meval==2.5
+pymongo==4.0.2
+pyrogram==1.4.9
+python-dotenv==0.19.2
+PyYAML==6.0
+scikit-learn==1.0.2
+tgcrypto==1.2.3
+toml==0.10.2
+uvloop==0.16.0
